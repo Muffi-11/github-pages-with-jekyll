@@ -45,4 +45,4 @@ Because of the breadth of the GitHub community, you can sometimes find programme
 Develop and Implement a Management Strategy
 You likely have multiple people working on projects at the same time, and many of them may be in different locations and possibly even different countries. With the ability to collaborate on a project through GitHub, you can establish a system for different collaborators to work together without stepping on each others' toes.
 
-For example, you don't want one collaborator addressing a problem in a way that conflicts with another collaborator's approach. Everyone can know and see what everyone else is doing, and projects can be managed in whatever way is best for your staff and your organization's need
+For example, you don't want one collaborator addressing a problem in a way that conflicts with another collaborator's approach. Everyone can know and see what everyone else is doing, and projects can be managed in whatever way is best for your staff and your organization's need.
